@@ -5,3 +5,4 @@ pandas==2.2.3
 geocoder==1.38.1
 numpy>=1.26.4
 pytz>=2024.1
+
